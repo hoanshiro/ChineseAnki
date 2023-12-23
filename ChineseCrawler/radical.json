@@ -1,0 +1,1714 @@
+[
+  {
+    "word": "一",
+    "sets": "nhất 一",
+    "pinyin": "yī",
+    "count": 1,
+    "hanviet": "nhất",
+    "var": ["壹"]
+  },
+  {
+    "word": "乙",
+    "sets": "ất 乙",
+    "pinyin": "yǐ",
+    "count": 1,
+    "hanviet": "ất",
+    "var": []
+  },
+  {
+    "word": "丨",
+    "sets": "cổn 丨",
+    "pinyin": "gǔn",
+    "count": 1,
+    "hanviet": "cổn",
+    "var": []
+  },
+  {
+    "word": "丶",
+    "sets": "chủ 丶",
+    "pinyin": "zhǔ",
+    "count": 1,
+    "hanviet": "chủ",
+    "var": []
+  },
+  {
+    "word": "丿",
+    "sets": "triệt 丿",
+    "pinyin": "piě",
+    "count": 1,
+    "hanviet": "thiên.triệt.phiệt",
+    "var": []
+  },
+  {
+    "word": "亅",
+    "sets": "quyết 亅",
+    "pinyin": "jué",
+    "count": 1,
+    "hanviet": "quyết",
+    "var": []
+  },
+  {
+    "word": "二",
+    "sets": "nhị 二",
+    "pinyin": "èr",
+    "count": 2,
+    "hanviet": "nhị",
+    "var": ["贰"]
+  },
+  {
+    "word": "人",
+    "sets": "nhân 人",
+    "pinyin": "rén",
+    "count": 2,
+    "hanviet": "nhân.nhơn",
+    "var": ["亻"]
+  },
+  {
+    "word": "儿",
+    "sets": "nhân 儿",
+    "pinyin": "ér",
+    "count": 2,
+    "hanviet": "nhân.nhi",
+    "var": ["兒"]
+  },
+  {
+    "word": "入",
+    "sets": "nhập 入",
+    "pinyin": "rù",
+    "count": 2,
+    "hanviet": "nhập",
+    "var": []
+  },
+  {
+    "word": "八",
+    "sets": "bát 八",
+    "pinyin": "bā",
+    "count": 2,
+    "hanviet": "bát",
+    "var": ["捌"]
+  },
+  {
+    "word": "几",
+    "sets": "kỷ 几",
+    "pinyin": "rù",
+    "count": 2,
+    "hanviet": "kỷ.ki.ky.kì.cơ.kỉ.ỷ",
+    "var": ["幾"]
+  },
+  {
+    "word": "刀",
+    "sets": "đao 刀",
+    "pinyin": "dāo",
+    "count": 2,
+    "hanviet": "đao",
+    "var": ["刂"]
+  },
+  {
+    "word": "力",
+    "sets": "lực 力",
+    "pinyin": "lì",
+    "count": 2,
+    "hanviet": "lực",
+    "var": ["力"]
+  },
+  {
+    "word": "匕",
+    "sets": "tỷ 匕",
+    "pinyin": "bǐ",
+    "count": 2,
+    "hanviet": "truỷ.tỷ.chuỷ",
+    "var": []
+  },
+  {
+    "word": "十",
+    "sets": "thập 十",
+    "pinyin": "shí",
+    "count": 2,
+    "hanviet": "thập",
+    "var": ["拾"]
+  },
+  {
+    "word": "卜",
+    "sets": "bốc 卜",
+    "pinyin": "bǔ",
+    "count": 2,
+    "hanviet": "bặc.bốc",
+    "var": []
+  },
+  {
+    "word": "厂",
+    "sets": "hán 厂",
+    "pinyin": "ān",
+    "count": 2,
+    "hanviet": "xưởng.hán",
+    "var": ["廠"]
+  },
+  {
+    "word": "又",
+    "sets": "hựu 又",
+    "pinyin": "yòu",
+    "count": 2,
+    "hanviet": "hữu.hựu",
+    "var": []
+  },
+  {
+    "word": "亠",
+    "sets": "đầu 亠",
+    "pinyin": "tóu",
+    "count": 2,
+    "hanviet": "đầu",
+    "var": []
+  },
+  {
+    "word": "冂",
+    "sets": "quynh 冂",
+    "pinyin": "jiōng",
+    "count": 2,
+    "hanviet": "quynh",
+    "var": ["坰", "冋"]
+  },
+  {
+    "word": "冖",
+    "sets": "mịch 冖",
+    "pinyin": "mì",
+    "count": 2,
+    "hanviet": "mịch",
+    "var": []
+  },
+  {
+    "word": "冫",
+    "sets": "băng 冫",
+    "pinyin": "bīng",
+    "count": 2,
+    "hanviet": "băng",
+    "var": ["氷", "冰"]
+  },
+  {
+    "word": "凵",
+    "sets": "khảm 凵",
+    "pinyin": "kǎn",
+    "count": 2,
+    "hanviet": "khảm",
+    "var": []
+  },
+  {
+    "word": "勹",
+    "sets": "bao 勹",
+    "pinyin": "bāo",
+    "count": 2,
+    "hanviet": "bao",
+    "var": ["包"]
+  },
+  {
+    "word": "匚",
+    "sets": "phương 匚",
+    "pinyin": "fāng",
+    "count": 2,
+    "hanviet": "phương",
+    "var": []
+  },
+  {
+    "word": "匸",
+    "sets": "hễ 匸",
+    "pinyin": "xǐ",
+    "count": 2,
+    "hanviet": "hễ.hệ",
+    "var": []
+  },
+  {
+    "word": "卩",
+    "sets": "tiết 卩",
+    "pinyin": "jié",
+    "count": 2,
+    "hanviet": "tiết",
+    "var": ["部"]
+  },
+  {
+    "word": "厶",
+    "sets": "khư 厶",
+    "pinyin": "sī",
+    "count": 2,
+    "hanviet": "mỗ.khư",
+    "var": ["私"]
+  },
+  {
+    "word": "廴",
+    "sets": "dẫn 廴",
+    "pinyin": "yǐn",
+    "count": 2,
+    "hanviet": "dẫn",
+    "var": []
+  },
+  {
+    "word": "口",
+    "sets": "khẩu 口",
+    "pinyin": "kǒu",
+    "count": 3,
+    "hanviet": "khẩu",
+    "var": []
+  },
+  {
+    "word": "土",
+    "sets": "thổ 土",
+    "pinyin": "tǔ",
+    "count": 3,
+    "hanviet": "đỗ.thổ.độ",
+    "var": []
+  },
+  {
+    "word": "士",
+    "sets": "sĩ 士",
+    "pinyin": "shì",
+    "count": 3,
+    "hanviet": "sĩ",
+    "var": []
+  },
+  {
+    "word": "夕",
+    "sets": "tịch 夕",
+    "pinyin": "xī",
+    "count": 3,
+    "hanviet": "tịch",
+    "var": []
+  },
+  {
+    "word": "大",
+    "sets": "đại 大",
+    "pinyin": "dà",
+    "count": 3,
+    "hanviet": "thái.đại",
+    "var": []
+  },
+  {
+    "word": "女",
+    "sets": "nữ 女",
+    "pinyin": "nǚ",
+    "count": 3,
+    "hanviet": "nhữ.nữ.nự.nứ",
+    "var": ["女"]
+  },
+  {
+    "word": "子",
+    "sets": "tử 子",
+    "pinyin": "zǐ",
+    "count": 3,
+    "hanviet": "tí.tý.tử",
+    "var": ["只"]
+  },
+  {
+    "word": "寸",
+    "sets": "thốn 寸",
+    "pinyin": "cùn",
+    "count": 3,
+    "hanviet": "thốn",
+    "var": ["吋"]
+  },
+  {
+    "word": "小",
+    "sets": "tiểu 小",
+    "pinyin": "xiǎo",
+    "count": 3,
+    "hanviet": "tiểu",
+    "var": []
+  },
+  {
+    "word": "尸",
+    "sets": "thi 尸",
+    "pinyin": "shī",
+    "count": 3,
+    "hanviet": "thi",
+    "var": ["屍"]
+  },
+  {
+    "word": "山",
+    "sets": "sơn 山",
+    "pinyin": "shān",
+    "count": 3,
+    "hanviet": "sơn.san",
+    "var": []
+  },
+  {
+    "word": "工",
+    "sets": "công 工",
+    "pinyin": "gōng",
+    "count": 3,
+    "hanviet": "công",
+    "var": []
+  },
+  {
+    "word": "己",
+    "sets": "kỷ 己",
+    "pinyin": "jǐ",
+    "count": 3,
+    "hanviet": "kỷ.kỉ",
+    "var": []
+  },
+  {
+    "word": "巾",
+    "sets": "cân 巾",
+    "pinyin": "jīn",
+    "count": 3,
+    "hanviet": "cân",
+    "var": []
+  },
+  {
+    "word": "干",
+    "sets": "can 干",
+    "pinyin": "gān",
+    "count": 3,
+    "hanviet": "cán.can",
+    "var": ["乾"]
+  },
+  {
+    "word": "幺",
+    "sets": "yêu 幺",
+    "pinyin": "yāo",
+    "count": 3,
+    "hanviet": "yêu",
+    "var": ["么"]
+  },
+  {
+    "word": "广",
+    "sets": "nghiễm 广",
+    "pinyin": "guǎng",
+    "count": 3,
+    "hanviet": "nghiễm.quáng.yểm.quảng",
+    "var": ["廣"]
+  },
+  {
+    "word": "弋",
+    "sets": "dặc 弋",
+    "pinyin": "yì",
+    "count": 3,
+    "hanviet": "dặc",
+    "var": []
+  },
+  {
+    "word": "弓",
+    "sets": "cung 弓",
+    "pinyin": "gōng",
+    "count": 3,
+    "hanviet": "cung",
+    "var": []
+  },
+  {
+    "word": "彳",
+    "sets": "xích 彳",
+    "pinyin": "chì",
+    "count": 3,
+    "hanviet": "xích.sách",
+    "var": []
+  },
+  {
+    "word": "囗",
+    "sets": "vi 囗",
+    "pinyin": "wéi",
+    "count": 3,
+    "hanviet": "vi.vy",
+    "var": []
+  },
+  {
+    "word": "夂",
+    "sets": "tri 夂",
+    "pinyin": "zhǐ",
+    "count": 3,
+    "hanviet": "tri.truy",
+    "var": []
+  },
+  {
+    "word": "夊",
+    "sets": "tuy 夊",
+    "pinyin": "sūi",
+    "count": 3,
+    "hanviet": "tuy.truy",
+    "var": ["攵"]
+  },
+  {
+    "word": "宀",
+    "sets": "miên 宀",
+    "pinyin": "mián",
+    "count": 3,
+    "hanviet": "miên",
+    "var": []
+  },
+  {
+    "word": "尢",
+    "sets": "uông 尢",
+    "pinyin": "yóu",
+    "count": 3,
+    "hanviet": "ngột.uông",
+    "var": ["尣"]
+  },
+  {
+    "word": "屮",
+    "sets": "triệt 屮",
+    "pinyin": "chè",
+    "count": 3,
+    "hanviet": "triệt",
+    "var": []
+  },
+  {
+    "word": "巛",
+    "sets": "xuyên 巛",
+    "pinyin": "chuān",
+    "count": 3,
+    "hanviet": "khôn.xuyên",
+    "var": ["川"]
+  },
+  {
+    "word": "廾",
+    "sets": "củng 廾",
+    "pinyin": "gǒng",
+    "count": 3,
+    "hanviet": "trấp.củng.nhập",
+    "var": ["廿"]
+  },
+  {
+    "word": "彐",
+    "sets": "kệ 彐",
+    "pinyin": "jì",
+    "count": 3,
+    "hanviet": "tuyết.kệ.ký",
+    "var": ["彑"]
+  },
+  {
+    "word": "彡",
+    "sets": "sam 彡",
+    "pinyin": "shān",
+    "count": 3,
+    "hanviet": "sam.tiệm",
+    "var": []
+  },
+  {
+    "word": "心",
+    "sets": "tâm 心",
+    "pinyin": "xīn",
+    "count": 4,
+    "hanviet": "tâm",
+    "var": ["㣺", "忄"]
+  },
+  {
+    "word": "戈",
+    "sets": "qua 戈",
+    "pinyin": "gē",
+    "count": 4,
+    "hanviet": "qua",
+    "var": []
+  },
+  {
+    "word": "手",
+    "sets": "thủ 手",
+    "pinyin": "shǒu",
+    "count": 4,
+    "hanviet": "thủ",
+    "var": ["扌"]
+  },
+  {
+    "word": "支",
+    "sets": "chi 支",
+    "pinyin": "zhī",
+    "count": 4,
+    "hanviet": "chi",
+    "var": []
+  },
+  {
+    "word": "文",
+    "sets": "văn 文",
+    "pinyin": "wén",
+    "count": 4,
+    "hanviet": "văn.vấn",
+    "var": ["㒚", "穩"]
+  },
+  {
+    "word": "斗",
+    "sets": "đẩu 斗",
+    "pinyin": "dǒu",
+    "count": 4,
+    "hanviet": "đấu.đẩu.ẩu",
+    "var": ["鬥"]
+  },
+  {
+    "word": "斤",
+    "sets": "cân 斤",
+    "pinyin": "jīn",
+    "count": 4,
+    "hanviet": "cân.cấn",
+    "var": ["觔"]
+  },
+  {
+    "word": "方",
+    "sets": "phương 方",
+    "pinyin": "fāng",
+    "count": 4,
+    "hanviet": "bàng.phương",
+    "var": []
+  },
+  {
+    "word": "日",
+    "sets": "nhật 日",
+    "pinyin": "rì",
+    "count": 4,
+    "hanviet": "nhựt.nhật",
+    "var": []
+  },
+  {
+    "word": "曰",
+    "sets": "viết 曰",
+    "pinyin": "yuē",
+    "count": 4,
+    "hanviet": "viết",
+    "var": []
+  },
+  {
+    "word": "月",
+    "sets": "nguyệt 月",
+    "pinyin": "yuè",
+    "count": 4,
+    "hanviet": "nguyệt",
+    "var": []
+  },
+  {
+    "word": "木",
+    "sets": "mộc 木",
+    "pinyin": "mù",
+    "count": 4,
+    "hanviet": "mộc",
+    "var": []
+  },
+  {
+    "word": "欠",
+    "sets": "khiếm 欠",
+    "pinyin": "qiàn",
+    "count": 4,
+    "hanviet": "khiếm",
+    "var": ["缺"]
+  },
+  {
+    "word": "止",
+    "sets": "chỉ 止",
+    "pinyin": "zhǐ",
+    "count": 4,
+    "hanviet": "chi.chỉ",
+    "var": ["只"]
+  },
+  {
+    "word": "歹",
+    "sets": "ngạt 歹",
+    "pinyin": "dǎi",
+    "count": 4,
+    "hanviet": "đãi.ngạt",
+    "var": ["歺"]
+  },
+  {
+    "word": "殳",
+    "sets": "thù 殳",
+    "pinyin": "shū",
+    "count": 4,
+    "hanviet": "thù",
+    "var": ["杸"]
+  },
+  {
+    "word": "毋",
+    "sets": "vô 毋",
+    "pinyin": "wú",
+    "count": 4,
+    "hanviet": "vô.mưu",
+    "var": []
+  },
+  {
+    "word": "比",
+    "sets": "tỷ 比",
+    "pinyin": "bǐ",
+    "count": 4,
+    "hanviet": "tỷ.tỵ.bì.bỉ.tỉ.bí",
+    "var": []
+  },
+  {
+    "word": "毛",
+    "sets": "mao 毛",
+    "pinyin": "máo",
+    "count": 4,
+    "hanviet": "mao.mô",
+    "var": []
+  },
+  {
+    "word": "氏",
+    "sets": "thị 氏",
+    "pinyin": "shì",
+    "count": 4,
+    "hanviet": "chi.thị",
+    "var": []
+  },
+  {
+    "word": "气",
+    "sets": "khí 气",
+    "pinyin": "qì",
+    "count": 4,
+    "hanviet": "khí.khất",
+    "var": ["氣"]
+  },
+  {
+    "word": "水",
+    "sets": "thuỷ 水",
+    "pinyin": "shuǐ",
+    "count": 4,
+    "hanviet": "thuỷ",
+    "var": ["氵"]
+  },
+  {
+    "word": "火",
+    "sets": "hoả 火",
+    "pinyin": "huǒ",
+    "count": 4,
+    "hanviet": "hoả",
+    "var": ["灬"]
+  },
+  {
+    "word": "爪",
+    "sets": "trảo 爪",
+    "pinyin": "zhǎo",
+    "count": 4,
+    "hanviet": "trảo",
+    "var": ["㕚", "爫"]
+  },
+  {
+    "word": "父",
+    "sets": "phụ 父",
+    "pinyin": "fǔ",
+    "count": 4,
+    "hanviet": "phụ.phủ",
+    "var": []
+  },
+  {
+    "word": "爻",
+    "sets": "hào 爻",
+    "pinyin": "yáo",
+    "count": 4,
+    "hanviet": "hào",
+    "var": []
+  },
+  {
+    "word": "爿",
+    "sets": "tường 爿",
+    "pinyin": "pán",
+    "count": 4,
+    "hanviet": "tường.bản",
+    "var": []
+  },
+  {
+    "word": "片",
+    "sets": "phiến 片",
+    "pinyin": "piān",
+    "count": 4,
+    "hanviet": "phiến",
+    "var": []
+  },
+  {
+    "word": "牙",
+    "sets": "nha 牙",
+    "pinyin": "yá",
+    "count": 4,
+    "hanviet": "nha",
+    "var": []
+  },
+  {
+    "word": "牛",
+    "sets": "ngưu 牛",
+    "pinyin": "niú",
+    "count": 4,
+    "hanviet": "ngưu",
+    "var": ["牜"]
+  },
+  {
+    "word": "犬",
+    "sets": "khuyển 犬",
+    "pinyin": "quǎn",
+    "count": 4,
+    "hanviet": "khuyển",
+    "var": ["犭"]
+  },
+  {
+    "word": "瓦",
+    "sets": "ngoã 瓦",
+    "pinyin": "wǎ",
+    "count": 4,
+    "hanviet": "ngoã.ngoá",
+    "var": []
+  },
+  {
+    "word": "户",
+    "sets": "hộ 戶",
+    "pinyin": "hù",
+    "count": 4,
+    "hanviet": "hộ",
+    "var": ["戶"]
+  },
+  {
+    "word": "攴",
+    "sets": "phác 攴",
+    "pinyin": "pū",
+    "count": 4,
+    "hanviet": "phộc.phốc.phác",
+    "var": ["撲"]
+  },
+  {
+    "word": "旡",
+    "sets": "vô 无",
+    "pinyin": "jì",
+    "count": 4,
+    "hanviet": "kí.vô.ký",
+    "var": []
+  },
+  {
+    "word": "玄",
+    "sets": "huyền 玄",
+    "pinyin": "xuán",
+    "count": 5,
+    "hanviet": "huyền",
+    "var": ["伭"]
+  },
+  {
+    "word": "玉",
+    "sets": "ngọc 玉",
+    "pinyin": "yù",
+    "count": 5,
+    "hanviet": "ngọc.túc",
+    "var": []
+  },
+  {
+    "word": "瓜",
+    "sets": "qua 瓜",
+    "pinyin": "guā",
+    "count": 5,
+    "hanviet": "qua",
+    "var": []
+  },
+  {
+    "word": "甘",
+    "sets": "cam 甘",
+    "pinyin": "gān",
+    "count": 5,
+    "hanviet": "cam",
+    "var": []
+  },
+  {
+    "word": "生",
+    "sets": "sinh 生",
+    "pinyin": "shēng",
+    "count": 5,
+    "hanviet": "sanh.sinh",
+    "var": []
+  },
+  {
+    "word": "用",
+    "sets": "dụng 用",
+    "pinyin": "yòng",
+    "count": 5,
+    "hanviet": "suý.suất",
+    "var": ["摔"]
+  },
+  {
+    "word": "田",
+    "sets": "điền 田",
+    "pinyin": "tián",
+    "count": 5,
+    "hanviet": "điền",
+    "var": []
+  },
+  {
+    "word": "白",
+    "sets": "bạch 白",
+    "pinyin": "bái",
+    "count": 5,
+    "hanviet": "bạch",
+    "var": []
+  },
+  {
+    "word": "皮",
+    "sets": "bì 皮",
+    "pinyin": "pí",
+    "count": 5,
+    "hanviet": "bì",
+    "var": []
+  },
+  {
+    "word": "皿",
+    "sets": "mẫn 皿",
+    "pinyin": "mǐn",
+    "count": 5,
+    "hanviet": "mãnh.mẫn",
+    "var": []
+  },
+  {
+    "word": "目",
+    "sets": "mục 目",
+    "pinyin": "mù",
+    "count": 5,
+    "hanviet": "mục",
+    "var": []
+  },
+  {
+    "word": "矛",
+    "sets": "mâu 矛",
+    "pinyin": "máo",
+    "count": 5,
+    "hanviet": "mâu",
+    "var": []
+  },
+  {
+    "word": "矢",
+    "sets": "thỉ 矢",
+    "pinyin": "shǐ",
+    "count": 5,
+    "hanviet": "thỉ.thi",
+    "var": ["笶"]
+  },
+  {
+    "word": "石",
+    "sets": "thạch 石",
+    "pinyin": "shí",
+    "count": 5,
+    "hanviet": "thạch.đạn",
+    "var": []
+  },
+  {
+    "word": "示",
+    "sets": "kỳ 示",
+    "pinyin": "shì",
+    "count": 5,
+    "hanviet": "kì.thị.kỳ",
+    "var": ["礻"]
+  },
+  {
+    "word": "禾",
+    "sets": "hoà 禾",
+    "pinyin": "hé",
+    "count": 5,
+    "hanviet": "hoà",
+    "var": []
+  },
+  {
+    "word": "穴",
+    "sets": "huyệt 穴",
+    "pinyin": "xué",
+    "count": 5,
+    "hanviet": "huyệt",
+    "var": []
+  },
+  {
+    "word": "立",
+    "sets": "lập 立",
+    "pinyin": "lì",
+    "count": 5,
+    "hanviet": "lập",
+    "var": ["立"]
+  },
+  {
+    "word": "疒",
+    "sets": "nạch 疒",
+    "pinyin": "nè",
+    "count": 5,
+    "hanviet": "nạch",
+    "var": []
+  },
+  {
+    "word": "癶",
+    "sets": "bát 癶",
+    "pinyin": "bǒ",
+    "count": 5,
+    "hanviet": "bát",
+    "var": []
+  },
+  {
+    "word": "禸",
+    "sets": "nhụ 禸",
+    "pinyin": "róu",
+    "count": 5,
+    "hanviet": "nhựu.nhụ",
+    "var": []
+  },
+  {
+    "word": "竹",
+    "sets": "trúc 竹",
+    "pinyin": "zhú",
+    "count": 6,
+    "hanviet": "trúc",
+    "var": []
+  },
+  {
+    "word": "米",
+    "sets": "mễ 米",
+    "pinyin": "mǐ",
+    "count": 6,
+    "hanviet": "mễ",
+    "var": []
+  },
+  {
+    "word": "缶",
+    "sets": "phũ 缶",
+    "pinyin": "fǒu",
+    "count": 6,
+    "hanviet": "phẫu.phữu.phũ",
+    "var": ["罐"]
+  },
+  {
+    "word": "网",
+    "sets": "võng 网",
+    "pinyin": "wǎng",
+    "count": 6,
+    "hanviet": "võng",
+    "var": ["網"]
+  },
+  {
+    "word": "羊",
+    "sets": "dương 羊",
+    "pinyin": "yáng",
+    "count": 6,
+    "hanviet": "tường.dương",
+    "var": []
+  },
+  {
+    "word": "羽",
+    "sets": "vũ 羽",
+    "pinyin": "yǔ",
+    "count": 6,
+    "hanviet": "vũ",
+    "var": ["羽"]
+  },
+  {
+    "word": "老",
+    "sets": "lão 老",
+    "pinyin": "lǎo",
+    "count": 6,
+    "hanviet": "lão",
+    "var": ["耂"]
+  },
+  {
+    "word": "而",
+    "sets": "nhi 而",
+    "pinyin": "ér",
+    "count": 6,
+    "hanviet": "nhi.năng",
+    "var": []
+  },
+  {
+    "word": "耒",
+    "sets": "lỗi 耒",
+    "pinyin": "lěi",
+    "count": 6,
+    "hanviet": "lỗi",
+    "var": ["來"]
+  },
+  {
+    "word": "耳",
+    "sets": "nhĩ 耳",
+    "pinyin": "ěr",
+    "count": 6,
+    "hanviet": "nhĩ",
+    "var": []
+  },
+  {
+    "word": "聿",
+    "sets": "duật 聿",
+    "pinyin": "yù",
+    "count": 6,
+    "hanviet": "duật",
+    "var": ["肀"]
+  },
+  {
+    "word": "肉",
+    "sets": "nhục 肉",
+    "pinyin": "ròu",
+    "count": 6,
+    "hanviet": "nhục.nậu.nhụ",
+    "var": ["宍"]
+  },
+  {
+    "word": "臣",
+    "sets": "thần 臣",
+    "pinyin": "chén",
+    "count": 6,
+    "hanviet": "thần",
+    "var": []
+  },
+  {
+    "word": "自",
+    "sets": "tự 自",
+    "pinyin": "zì",
+    "count": 6,
+    "hanviet": "tự",
+    "var": []
+  },
+  {
+    "word": "至",
+    "sets": "chí 至",
+    "pinyin": "zhì",
+    "count": 6,
+    "hanviet": "chí",
+    "var": []
+  },
+  {
+    "word": "臼",
+    "sets": "cữu 臼",
+    "pinyin": "jiù",
+    "count": 6,
+    "hanviet": "cữu",
+    "var": []
+  },
+  {
+    "word": "舌",
+    "sets": "thiệt 舌",
+    "pinyin": "shé",
+    "count": 6,
+    "hanviet": "thiệt",
+    "var": []
+  },
+  {
+    "word": "舛",
+    "sets": "suyễn 舛",
+    "pinyin": "chuǎn",
+    "count": 6,
+    "hanviet": "xuyễn.suyễn",
+    "var": []
+  },
+  {
+    "word": "舟",
+    "sets": "chu 舟",
+    "pinyin": "zhōu",
+    "count": 6,
+    "hanviet": "châu.chu",
+    "var": []
+  },
+  {
+    "word": "艮",
+    "sets": "cấn 艮",
+    "pinyin": "gěn",
+    "count": 6,
+    "hanviet": "cấn",
+    "var": []
+  },
+  {
+    "word": "色",
+    "sets": "sắc 色",
+    "pinyin": "sè",
+    "count": 6,
+    "hanviet": "sắc",
+    "var": []
+  },
+  {
+    "word": "虫",
+    "sets": "trùng 虫",
+    "pinyin": "chóng",
+    "count": 6,
+    "hanviet": "huỷ.trùng",
+    "var": ["蟲"]
+  },
+  {
+    "word": "血",
+    "sets": "huyết 血",
+    "pinyin": "xiě",
+    "count": 6,
+    "hanviet": "huyết",
+    "var": []
+  },
+  {
+    "word": "行",
+    "sets": "hành 行",
+    "pinyin": "háng",
+    "count": 6,
+    "hanviet": "hãng.hạnh.hàng.hạng.hành",
+    "var": ["行"]
+  },
+  {
+    "word": "衣",
+    "sets": "y 衣",
+    "pinyin": "yī",
+    "count": 6,
+    "hanviet": "ý.y",
+    "var": ["衤"]
+  },
+  {
+    "word": "糸",
+    "sets": "mịch 糸",
+    "pinyin": "mì",
+    "count": 6,
+    "hanviet": "mịch",
+    "var": ["絲"]
+  },
+  {
+    "word": "艸",
+    "sets": "thảo 艸",
+    "pinyin": "cǎo",
+    "count": 6,
+    "hanviet": "thảo",
+    "var": ["草", "艹"]
+  },
+  {
+    "word": "虍",
+    "sets": "hô 虍",
+    "pinyin": "hū",
+    "count": 6,
+    "hanviet": "hô",
+    "var": []
+  },
+  {
+    "word": "襾",
+    "sets": "á 襾",
+    "pinyin": "yà",
+    "count": 6,
+    "hanviet": "á",
+    "var": ["西"]
+  },
+  {
+    "word": "初",
+    "sets": "y 衣",
+    "pinyin": "chū",
+    "count": 7,
+    "hanviet": "sơ",
+    "var": []
+  },
+  {
+    "word": "角",
+    "sets": "giác 角",
+    "pinyin": "jué",
+    "count": 7,
+    "hanviet": "giác.lộc.giốc.cốc",
+    "var": ["甪"]
+  },
+  {
+    "word": "言",
+    "sets": "ngôn 言",
+    "pinyin": "yán",
+    "count": 7,
+    "hanviet": "ngôn.ngân",
+    "var": ["訁"]
+  },
+  {
+    "word": "谷",
+    "sets": "cốc 谷",
+    "pinyin": "gǔ",
+    "count": 7,
+    "hanviet": "lộc.dục.cốc",
+    "var": ["穀"]
+  },
+  {
+    "word": "豆",
+    "sets": "đậu 豆",
+    "pinyin": "dòu",
+    "count": 7,
+    "hanviet": "đậu",
+    "var": ["荳"]
+  },
+  {
+    "word": "豕",
+    "sets": "thỉ 豕",
+    "pinyin": "shǐ",
+    "count": 7,
+    "hanviet": "thỉ",
+    "var": []
+  },
+  {
+    "word": "豸",
+    "sets": "trĩ 豸",
+    "pinyin": "zhì",
+    "count": 7,
+    "hanviet": "trại.trãi.trĩ",
+    "var": ["廌"]
+  },
+  {
+    "word": "赤",
+    "sets": "xích 赤",
+    "pinyin": "chì",
+    "count": 7,
+    "hanviet": "xích.thích",
+    "var": []
+  },
+  {
+    "word": "走",
+    "sets": "tẩu 走",
+    "pinyin": "zǒu",
+    "count": 7,
+    "hanviet": "tẩu",
+    "var": ["赱"]
+  },
+  {
+    "word": "足",
+    "sets": "túc 足",
+    "pinyin": "zú",
+    "count": 7,
+    "hanviet": "tú.túc",
+    "var": []
+  },
+  {
+    "word": "身",
+    "sets": "thân 身",
+    "pinyin": "shēn",
+    "count": 7,
+    "hanviet": "quyên.thân",
+    "var": []
+  },
+  {
+    "word": "辰",
+    "sets": "thần 辰",
+    "pinyin": "chén",
+    "count": 7,
+    "hanviet": "thìn.thần",
+    "var": ["辰"]
+  },
+  {
+    "word": "邑",
+    "sets": "ấp 邑",
+    "pinyin": "yì",
+    "count": 7,
+    "hanviet": "ấp",
+    "var": ["阝"]
+  },
+  {
+    "word": "酉",
+    "sets": "dậu 酉",
+    "pinyin": "yǒu",
+    "count": 7,
+    "hanviet": "dậu",
+    "var": ["丣"]
+  },
+  {
+    "word": "里",
+    "sets": "lý 里",
+    "pinyin": "lǐ",
+    "count": 7,
+    "hanviet": "lý.lí",
+    "var": ["裏"]
+  },
+  {
+    "word": "見",
+    "sets": "kiến 見",
+    "pinyin": "jiàn",
+    "count": 7,
+    "hanviet": "hiện.kiến",
+    "var": ["见"]
+  },
+  {
+    "word": "車",
+    "sets": "xa 車",
+    "pinyin": "jū",
+    "count": 7,
+    "hanviet": "xa",
+    "var": ["车"]
+  },
+  {
+    "word": "貝",
+    "sets": "bối 貝",
+    "pinyin": "bèi",
+    "count": 7,
+    "hanviet": "bối",
+    "var": ["贝"]
+  },
+  {
+    "word": "辵",
+    "sets": "sước 辵",
+    "pinyin": "chuò",
+    "count": 7,
+    "hanviet": "sước",
+    "var": ["辶"]
+  },
+  {
+    "word": "釆",
+    "sets": "biện 釆",
+    "pinyin": "biàn",
+    "count": 7,
+    "hanviet": "biện",
+    "var": ["采"]
+  },
+  {
+    "word": "金",
+    "sets": "kim 金",
+    "pinyin": "jīn",
+    "count": 8,
+    "hanviet": "kim",
+    "var": ["钅"]
+  },
+  {
+    "word": "阜",
+    "sets": "phụ 阜",
+    "pinyin": "fù",
+    "count": 8,
+    "hanviet": "phụ",
+    "var": ["阝"]
+  },
+  {
+    "word": "隶",
+    "sets": "đãi 隶",
+    "pinyin": "lì",
+    "count": 8,
+    "hanviet": "lệ.đãi",
+    "var": ["隸"]
+  },
+  {
+    "word": "雨",
+    "sets": "vũ 雨",
+    "pinyin": "yǔ",
+    "count": 8,
+    "hanviet": "vú.vụ.vũ",
+    "var": ["馭"]
+  },
+  {
+    "word": "青",
+    "sets": "thanh 青",
+    "pinyin": "qīng",
+    "count": 8,
+    "hanviet": "thanh",
+    "var": ["靑"]
+  },
+  {
+    "word": "非",
+    "sets": "phi 非",
+    "pinyin": "fēi",
+    "count": 8,
+    "hanviet": "phi.phỉ",
+    "var": []
+  },
+  {
+    "word": "長",
+    "sets": "trường 長",
+    "pinyin": "cháng",
+    "count": 8,
+    "hanviet": "trưởng.trướng.tràng.trường",
+    "var": ["长"]
+  },
+  {
+    "word": "門",
+    "sets": "môn 門",
+    "pinyin": "mén",
+    "count": 8,
+    "hanviet": "môn",
+    "var": ["门"]
+  },
+  {
+    "word": "隹",
+    "sets": "chuy 隹",
+    "pinyin": "zhuī",
+    "count": 8,
+    "hanviet": "chuy",
+    "var": []
+  },
+  {
+    "word": "面",
+    "sets": "diện 面",
+    "pinyin": "miàn",
+    "count": 9,
+    "hanviet": "miến.diện",
+    "var": ["麵"]
+  },
+  {
+    "word": "革",
+    "sets": "cách 革",
+    "pinyin": "gé",
+    "count": 9,
+    "hanviet": "cức.cách",
+    "var": []
+  },
+  {
+    "word": "韭",
+    "sets": "cửu 韭",
+    "pinyin": "jiǔ",
+    "count": 9,
+    "hanviet": "cửu",
+    "var": ["艽"]
+  },
+  {
+    "word": "音",
+    "sets": "âm 音",
+    "pinyin": "yīn",
+    "count": 9,
+    "hanviet": "âm.ấm",
+    "var": []
+  },
+  {
+    "word": "食",
+    "sets": "thực 食",
+    "pinyin": "sì",
+    "count": 9,
+    "hanviet": "tự.thực",
+    "var": ["饣"]
+  },
+  {
+    "word": "首",
+    "sets": "thủ 首",
+    "pinyin": "shǒu",
+    "count": 9,
+    "hanviet": "thú.thủ",
+    "var": []
+  },
+  {
+    "word": "香",
+    "sets": "hương 香",
+    "pinyin": "xiāng",
+    "count": 9,
+    "hanviet": "hương",
+    "var": []
+  },
+  {
+    "word": "骨",
+    "sets": "cốt 骨",
+    "pinyin": "gǔ",
+    "count": 9,
+    "hanviet": "cốt",
+    "var": []
+  },
+  {
+    "word": "鬼",
+    "sets": "quỷ 鬼",
+    "pinyin": "guǐ",
+    "count": 9,
+    "hanviet": "quỷ",
+    "var": []
+  },
+  {
+    "word": "飛",
+    "sets": "phi 飛",
+    "pinyin": "fēi",
+    "count": 9,
+    "hanviet": "phi",
+    "var": ["飞"]
+  },
+  {
+    "word": "韋",
+    "sets": "vi 韋",
+    "pinyin": "wéi",
+    "count": 9,
+    "hanviet": "vi.vy",
+    "var": ["韦"]
+  },
+  {
+    "word": "頁",
+    "sets": "hiệt 頁",
+    "pinyin": "yè",
+    "count": 9,
+    "hanviet": "hiệt",
+    "var": ["页"]
+  },
+  {
+    "word": "風",
+    "sets": "phong 風",
+    "pinyin": "fēng",
+    "count": 9,
+    "hanviet": "phóng.phúng.phong",
+    "var": ["风"]
+  },
+  {
+    "word": "莘",
+    "sets": "thảo 艸",
+    "pinyin": "xīn",
+    "count": 10,
+    "hanviet": "sằn.tân.sân",
+    "var": []
+  },
+  {
+    "word": "高",
+    "sets": "cao 高",
+    "pinyin": "gāo",
+    "count": 10,
+    "hanviet": "cao",
+    "var": ["髙"]
+  },
+  {
+    "word": "鬯",
+    "sets": "sưởng 鬯",
+    "pinyin": "chàng",
+    "count": 10,
+    "hanviet": "sưởng",
+    "var": []
+  },
+  {
+    "word": "鬲",
+    "sets": "cách 鬲",
+    "pinyin": "gé",
+    "count": 10,
+    "hanviet": "lịch.cách",
+    "var": []
+  },
+  {
+    "word": "馬",
+    "sets": "mã 馬",
+    "pinyin": "mǎ",
+    "count": 10,
+    "hanviet": "mã",
+    "var": ["马"]
+  },
+  {
+    "word": "髟",
+    "sets": "tiêu 髟",
+    "pinyin": "biāo",
+    "count": 10,
+    "hanviet": "tiêu.sam.bưu",
+    "var": []
+  },
+  {
+    "word": "鬥",
+    "sets": "đẩu 鬥",
+    "pinyin": "dǒu",
+    "count": 10,
+    "hanviet": "đấu",
+    "var": ["鬬"]
+  },
+  {
+    "word": "鹿",
+    "sets": "lộc 鹿",
+    "pinyin": "lù",
+    "count": 11,
+    "hanviet": "lộc",
+    "var": ["鹿"]
+  },
+  {
+    "word": "麻",
+    "sets": "ma 麻",
+    "pinyin": "mā",
+    "count": 11,
+    "hanviet": "ma",
+    "var": ["菻"]
+  },
+  {
+    "word": "魚",
+    "sets": "ngư 魚",
+    "pinyin": "yú",
+    "count": 11,
+    "hanviet": "ngư",
+    "var": ["鱼"]
+  },
+  {
+    "word": "鳥",
+    "sets": "điểu 鳥",
+    "pinyin": "diǎo",
+    "count": 11,
+    "hanviet": "điểu",
+    "var": ["鸟"]
+  },
+  {
+    "word": "鹵",
+    "sets": "lỗ 鹵",
+    "pinyin": "lǔ",
+    "count": 11,
+    "hanviet": "lỗ",
+    "var": ["卤"]
+  },
+  {
+    "word": "麥",
+    "sets": "mạch 麥",
+    "pinyin": "mài",
+    "count": 11,
+    "hanviet": "mạch",
+    "var": ["麦"]
+  },
+  {
+    "word": "黍",
+    "sets": "thử 黍",
+    "pinyin": "shǔ",
+    "count": 12,
+    "hanviet": "thử",
+    "var": []
+  },
+  {
+    "word": "黑",
+    "sets": "hắc 黑",
+    "pinyin": "hēi",
+    "count": 12,
+    "hanviet": "hắc",
+    "var": ["黒"]
+  },
+  {
+    "word": "黹",
+    "sets": "chỉ 黹",
+    "pinyin": "zhǐ",
+    "count": 12,
+    "hanviet": "chỉ",
+    "var": []
+  },
+  {
+    "word": "鼎",
+    "sets": "đỉnh 鼎",
+    "pinyin": "dǐng",
+    "count": 12,
+    "hanviet": "đỉnh",
+    "var": []
+  },
+  {
+    "word": "黃",
+    "sets": "hoàng 黃",
+    "pinyin": "huáng",
+    "count": 12,
+    "hanviet": "huỳnh.hoàng",
+    "var": ["黄"]
+  },
+  {
+    "word": "鼓",
+    "sets": "cổ 鼓",
+    "pinyin": "gǔ",
+    "count": 13,
+    "hanviet": "cổ",
+    "var": ["皼"]
+  },
+  {
+    "word": "鼠",
+    "sets": "thử 鼠",
+    "pinyin": "shǔ",
+    "count": 13,
+    "hanviet": "thử",
+    "var": ["鼡"]
+  },
+  {
+    "word": "黽",
+    "sets": "mãnh 黽",
+    "pinyin": "mǐn",
+    "count": 13,
+    "hanviet": "miễn.mãnh.mẫn",
+    "var": ["黾"]
+  },
+  {
+    "word": "鼻",
+    "sets": "tỵ 鼻",
+    "pinyin": "bí",
+    "count": 14,
+    "hanviet": "tỵ.tì.tị",
+    "var": []
+  },
+  {
+    "word": "齊",
+    "sets": "tề 齊",
+    "pinyin": "jì",
+    "count": 14,
+    "hanviet": "tư.trai.tễ.tề.tế.tê",
+    "var": ["齐", "斋", "齋"]
+  },
+  {
+    "word": "齒",
+    "sets": "xỉ 齒",
+    "pinyin": "chǐ",
+    "count": 15,
+    "hanviet": "xỉ",
+    "var": ["齿"]
+  },
+  {
+    "word": "龍",
+    "sets": "long 龍",
+    "pinyin": "lóng",
+    "count": 15,
+    "hanviet": "lũng.long.sủng",
+    "var": ["竜"]
+  },
+  {
+    "word": "龠",
+    "sets": "dược 龠",
+    "pinyin": "yuè",
+    "count": 17,
+    "hanviet": "dược.thược",
+    "var": ["籥"]
+  },
+  {
+    "word": "龜",
+    "sets": "quy 龜",
+    "pinyin": "jūn",
+    "count": 18,
+    "hanviet": "cưu.quy.khưu.quân",
+    "var": ["龟"]
+  }
+]
