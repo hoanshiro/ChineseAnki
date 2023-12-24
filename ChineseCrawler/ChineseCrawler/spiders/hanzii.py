@@ -18,8 +18,8 @@ class HanziiSpider(BaseSpider):
         try:
             response_json = response.json()
             vocab_data = response_json["result"][0]
-        except:
-            return
+        except Exception:
+            return None
         item = HanziiSpiderItem()
         item["word"] = vocab_data["word"]
         item["pinyin"] = vocab_data["pinyin"]
