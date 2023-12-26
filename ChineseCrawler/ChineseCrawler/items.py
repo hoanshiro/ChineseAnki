@@ -24,3 +24,5 @@ class HanziiSpiderItem(scrapy.Item):
     ex_2 = scrapy.Field()
     def_3 = scrapy.Field()
     ex_3 = scrapy.Field()
+    comp = scrapy.Field()
+    scomp = scrapy.Field()

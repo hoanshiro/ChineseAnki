@@ -1,4 +1,4 @@
-from genanki import Model, Note
+from genanki import Model
 import genanki
 
 CSS = '''
@@ -22,9 +22,10 @@ CSS = '''
     }
 '''
 
-TEMPLATE = [{
-    'name': 'Anki Card (Improved Format)',
-    'qfmt': '''
+TEMPLATE = [
+    {
+        'name': 'Anki Card (Improved Format)',
+        'qfmt': '''
         <center><h1>{{word}} - {{pinyin}} - {{word_mp3}}</h1></center><hr>
         <b>Definition:</b> {{definition}}<br>
         <lef> <b>Example 1:</b> {{ex1}} - {{ex1_def}} - {{ex1_mp3}}</left><hr>
@@ -34,7 +35,7 @@ TEMPLATE = [{
         <lef> <b>Example 4:</b> {{ex4}} - {{ex4_def}} - {{ex4_mp3}}</left><hr>
         <lef> <b>Example 5:</b> {{ex5}} - {{ex5_def}} - {{ex5_mp3}}</left><hr>
     ''',
-    'afmt': '''
+        'afmt': '''
         {{FrontSide}}
         <hr id="answer">
         '<div style="text-align: left;">{{etymology}}<br><img src="{{stroke_order}}" style="width: 200px; height: 200px;"></div><br>'
@@ -43,7 +44,9 @@ TEMPLATE = [{
         <lef> <b>Example 8:</b> {{ex8}} - {{ex8_def}} - {{ex8_mp3}}</left><hr>
         <lef> <b>Example 9:</b> {{ex9}} - {{ex9_def}} - {{ex9_mp3}}</left><hr>
     ''',
-}]
+    }
+]
+
 
 class AnkiGener:
     def __init__(self):
@@ -62,7 +65,7 @@ class AnkiGener:
             css=self.css,
         )
         return my_model
-    
+
     def create_desktop_deck(self, deck_name, model, notes):
         my_deck = genanki.Deck(
             2059400110,
@@ -71,16 +74,16 @@ class AnkiGener:
         for note in notes:
             my_deck.add_note(note)
         return my_deck
-    
+
     def import_media(self, deck, media_files):
         for file in media_files:
             deck.media_files.append(file)
         return deck
-    
+
     def export_deck(self, deck, file_name):
         genanki.Package(deck).write_to_file(file_name)
         return True
-    
+
     def execute(self, deck_name, fields, notes, media_files, file_name):
         model = self.create_card(fields)
         deck = self.create_desktop_deck(deck_name, model, notes)

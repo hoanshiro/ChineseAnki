@@ -9,7 +9,9 @@ class BaseSpider(scrapy.Spider):
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.vocab_path = "/home/hoan/Desktop/ChineseAnki/ChineseCrawler/vocab.json"
+        self.vocab_path = (
+            "/Users/nguyenvanhoan/Anki/ChineseAnki/ChineseCrawler/vocab.json"
+        )
         self.file_dir = Path(__file__).resolve().parent
         self.base_dir = self.file_dir.parent
         self.save_dir = ""
@@ -34,3 +36,7 @@ class BaseSpider(scrapy.Spider):
 
     def extract_vocab(self, response):
         return response.url.split("/")[-1].split(".")[0]
+
+    @staticmethod
+    def combine_items(data: list, delimiter=", "):
+        return delimiter.join(filter(None, data))

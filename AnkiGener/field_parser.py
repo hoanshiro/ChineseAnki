@@ -1,7 +1,4 @@
-import json
-import jmespath
-
-class FieldParser():
+class FieldParser:
     def __init__(self, field):
         self.field = field
 
