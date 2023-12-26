@@ -1,92 +1,73 @@
-from genanki import Model
+from genanki import Model, CLOZE_MODEL
 import genanki
-
-CSS = '''
-    .card {
-        font-family: Segoe UI;
-        font-size: 20px;
-        text-align: left;
-        color: black;
-        background-color: white;
-    }
-    .image-container {
-        display: flex;
-        justify-content: space-between;
-    }
-    img{
-        max-width:100%;
-
-        height:auto;
-            width:300px;
-            border-radius: 20px;
-    }
-'''
-
-TEMPLATE = [
-    {
-        'name': 'Anki Card (Improved Format)',
-        'qfmt': '''
-        <center><h1>{{word}} - {{pinyin}} - {{word_mp3}}</h1></center><hr>
-        <b>Definition:</b> {{definition}}<br>
-        <lef> <b>Example 1:</b> {{ex1}} - {{ex1_def}} - {{ex1_mp3}}</left><hr>
-        <hr id="answer">
-        <lef> <b>Example 2:</b> {{ex2}} - {{ex2_def}} - {{ex2_mp3}}</left><hr>
-        <lef> <b>Example 3:</b> {{ex3}} - {{ex3_def}} - {{ex3_mp3}}</left><hr>
-        <lef> <b>Example 4:</b> {{ex4}} - {{ex4_def}} - {{ex4_mp3}}</left><hr>
-        <lef> <b>Example 5:</b> {{ex5}} - {{ex5_def}} - {{ex5_mp3}}</left><hr>
-    ''',
-        'afmt': '''
-        {{FrontSide}}
-        <hr id="answer">
-        '<div style="text-align: left;">{{etymology}}<br><img src="{{stroke_order}}" style="width: 200px; height: 200px;"></div><br>'
-        <lef> <b>Example 6:</b> {{ex6}} - {{ex6_def}} - {{ex6_mp3}}</left><hr>
-        <lef> <b>Example 7:</b> {{ex7}} - {{ex7_def}} - {{ex7_mp3}}</left><hr>
-        <lef> <b>Example 8:</b> {{ex8}} - {{ex8_def}} - {{ex8_mp3}}</left><hr>
-        <lef> <b>Example 9:</b> {{ex9}} - {{ex9_def}} - {{ex9_mp3}}</left><hr>
-    ''',
-    }
-]
-
+import os
+from template import TEMPLATE, CSS, FIELDS, KEY_ORDER
+from field_parser import FieldParser
 
 class AnkiGener:
-    def __init__(self):
+    def __init__(self, data_path, media_path):
         '''
         repo: https://github.com/kerrickstaley/genanki
         '''
         self.css = CSS
         self.card_template = TEMPLATE
+        self.fields = FIELDS
+        self.chinse_model = self.create_model()
+        self.data_path = data_path
+        self.media_path = media_path
+        self.field_parser = FieldParser(self.data_path)
+        self.data = self.field_parser.parse()
 
-    def create_card(self, fields):
-        my_model = Model(
+    def create_model(self):
+        chinse_model = Model(
             1607392319,
-            'Anki Card Model',
-            fields=fields,
+            'Chinese Card Model',
+            model_type=Model.CLOZE,
+            fields=self.fields,
             templates=self.card_template,
             css=self.css,
         )
-        return my_model
+        return chinse_model
+    
 
-    def create_desktop_deck(self, deck_name, model, notes):
-        my_deck = genanki.Deck(
+    def create_deck(self, deck_name):
+        chinse_desk = genanki.Deck(
             2059400110,
             deck_name,
         )
-        for note in notes:
-            my_deck.add_note(note)
-        return my_deck
+        for item in self.data:
+            card = genanki.Note(
+                model=self.chinse_model,
+                fields=[item[key] for key in KEY_ORDER],
+            )
+            chinse_desk.add_note(card)
+        return chinse_desk
 
-    def import_media(self, deck, media_files):
+    def create_package(self, deck, media_files):
+        chinese_package = genanki.Package(deck)
         for file in media_files:
-            deck.media_files.append(file)
-        return deck
-
-    def export_deck(self, deck, file_name):
-        genanki.Package(deck).write_to_file(file_name)
+            chinese_package.media_files.append(file)
+        chinese_package.write_to_file('Chinese.apkg')
         return True
 
-    def execute(self, deck_name, fields, notes, media_files, file_name):
-        model = self.create_card(fields)
-        deck = self.create_desktop_deck(deck_name, model, notes)
-        deck = self.import_media(deck, media_files)
-        self.export_deck(deck, file_name)
-        return True
+    def create_media_files(self):
+        sub_folders = ['audio', 'etymology', 'stroke', 'hanzii_audio']
+        media_files = []
+        for folder in sub_folders:
+            folder_path = f'{self.media_path}/{folder}'
+            for file in os.listdir(folder_path):
+                media_files.append(f'{folder_path}/{file}')
+        print("Number of media files: ", len(media_files))
+        return media_files
+
+    def execute(self, deck_name):
+        deck = self.create_deck(deck_name)
+        media_files = self.create_media_files()
+        is_sucess = self.create_package(deck, media_files)
+        return is_sucess
+
+if __name__ == '__main__':
+    data_path = '/home/hoan/Desktop/ChineseAnki/ChineseCrawler/hanzii.json'
+    media_path = '/home/hoan/Desktop/ChineseAnki/ChineseCrawler/ChineseCrawler/media'
+    anki_gener = AnkiGener(data_path, media_path)
+    anki_gener.execute('ChineseHanzii')

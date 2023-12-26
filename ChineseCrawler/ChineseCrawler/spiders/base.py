@@ -9,11 +9,9 @@ class BaseSpider(scrapy.Spider):
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.vocab_path = (
-            "/Users/nguyenvanhoan/Anki/ChineseAnki/ChineseCrawler/vocab.json"
-        )
         self.file_dir = Path(__file__).resolve().parent
         self.base_dir = self.file_dir.parent
+        self.vocab_path = f"{self.base_dir}/data/vocab.json"
         self.save_dir = ""
         self.ls_vocab = self.load_vocab()
 
